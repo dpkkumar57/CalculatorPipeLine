@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="com.deepak.practice.Jenkins.CalcJenkinTest" duration-ms="15" started-at="2020-01-17T01:51:24Z" finished-at="2020-01-17T01:51:24Z">
+  <suite name="com.deepak.practice.Jenkins.CalcJenkinTest" duration-ms="21" started-at="2020-01-17T02:26:49Z" finished-at="2020-01-17T02:26:49Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="15" started-at="2020-01-17T01:51:24Z" finished-at="2020-01-17T01:51:24Z">
+    <test name="Command line test" duration-ms="21" started-at="2020-01-17T02:26:49Z" finished-at="2020-01-17T02:26:49Z">
       <class name="com.deepak.practice.Jenkins.CalcJenkinTest">
-        <test-method status="PASS" signature="addTest()[pri:0, instance:com.deepak.practice.Jenkins.CalcJenkinTest@c818063]" name="addTest" duration-ms="7" started-at="2020-01-16T19:51:24Z" finished-at="2020-01-16T19:51:24Z">
+        <test-method status="PASS" signature="addTest()[pri:0, instance:com.deepak.practice.Jenkins.CalcJenkinTest@c818063]" name="addTest" duration-ms="8" started-at="2020-01-16T20:26:49Z" finished-at="2020-01-16T20:26:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addTest -->
-        <test-method status="PASS" signature="subTest()[pri:0, instance:com.deepak.practice.Jenkins.CalcJenkinTest@c818063]" name="subTest" duration-ms="0" started-at="2020-01-16T19:51:24Z" finished-at="2020-01-16T19:51:24Z">
+        <test-method status="PASS" signature="subTest()[pri:0, instance:com.deepak.practice.Jenkins.CalcJenkinTest@c818063]" name="subTest" duration-ms="0" started-at="2020-01-16T20:26:49Z" finished-at="2020-01-16T20:26:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- subTest -->
