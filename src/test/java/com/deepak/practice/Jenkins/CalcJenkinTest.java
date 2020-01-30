@@ -11,6 +11,7 @@ public class CalcJenkinTest {
 	public void addTest() {
 		Calculator calc = new Calculator();
 		assertEquals(10,calc.add(5, 5));
+		System.out.println("Testing Branch");
 	}
 	
 	@Test
